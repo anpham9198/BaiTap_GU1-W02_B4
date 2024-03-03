@@ -1,0 +1,14 @@
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\BaiTap_GU1-W02_B4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\BaiTap_GU1-W02_B4.AssemblyInfoInputs.cache
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\BaiTap_GU1-W02_B4.AssemblyInfo.cs
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\BaiTap_GU1-W02_B4.csproj.CoreCompileInputs.cache
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\bin\Debug\net8.0\BaiTap_GU1-W02_B4.exe
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\bin\Debug\net8.0\BaiTap_GU1-W02_B4.deps.json
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\bin\Debug\net8.0\BaiTap_GU1-W02_B4.runtimeconfig.json
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\bin\Debug\net8.0\BaiTap_GU1-W02_B4.dll
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\bin\Debug\net8.0\BaiTap_GU1-W02_B4.pdb
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\BaiTap_GU1-W02_B4.dll
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\refint\BaiTap_GU1-W02_B4.dll
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\BaiTap_GU1-W02_B4.pdb
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\BaiTap_GU1-W02_B4.genruntimeconfig.cache
+D:\C#\Projects\UngDungChuyenDoiTienTe\BaiTap_GU1-W02_B4\obj\Debug\net8.0\ref\BaiTap_GU1-W02_B4.dll
